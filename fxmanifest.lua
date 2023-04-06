@@ -23,5 +23,6 @@ shared_scripts {
 dependency {
 	'es_extended',
 	'ox_lib',
-	'ox_inventory'
+	'ox_inventory',
+	'ox_target'
 }

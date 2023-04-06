@@ -23,3 +23,8 @@
 - ox_lib
 - ox_target
 - ox_inventory
+
+# Optional dependencies
+
+- ox_fuel
+- sy_carkeys
